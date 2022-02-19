@@ -4,6 +4,7 @@
 
 class VehicleTypeTest {
 /*
+ *
 	@Test
 	void test_canBeRentedForMinimumDays1() {
 		VehicleType vehicleType = new VehicleType(4);
